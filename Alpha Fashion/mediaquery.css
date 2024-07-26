@@ -1,0 +1,145 @@
+@media(max-width:1199px) {
+    /* .banner{
+        margin-top: 1rem;
+    } */
+    /* .bn3{
+        margin-top: 1rem;
+    } */
+    .item1{
+        background-position: center;
+    }
+    .item2{
+        background-position: center;
+    }
+    .item3{
+        background-position: center;
+    }
+    .up-h1{
+        font-size: 5em;
+    }
+    .imgg1 img{
+        height: 100%;
+    }
+    .img img{
+        width: 100%;
+        
+    }
+    .upper-para{
+        width:100%;
+        height: 100%;
+    }
+    [data-aos] {
+        opacity: 1 !important;
+        transform: none !important;
+      }
+      .footer-logo{
+        margin-bottom: 1rem;
+      }
+      .upper-para1 {
+        height: 100% !important;
+        width: 100%;
+    }
+    .navbar-nav{
+        gap: 1rem !important;
+    }
+    .image-about{
+        padding: 0rem;
+      }
+      .about-content{
+        margin-top: 1rem;
+      }
+      .footer-heading{
+        margin-top: 1.5rem;
+      }
+    .contact-info-text{
+        display: flex;
+        justify-content: space-evenly;
+    }
+}
+@media (max-width:767px){
+    .header .owl-slider {
+        /* background-image: url("images/hero-slider-two.webp"); */
+         height: 28rem; 
+    }
+    
+    .main-heading {
+        font-size: 2.2rem;
+        margin-top: 4rem !important;
+
+    }
+    .offer2{
+        margin-top: 1rem;
+    }
+    .qualities{
+        padding: 1rem;
+    }
+    .num-box img{
+        height: 4rem;
+    }
+    .num{
+        font-size: 1.5rem;
+    }
+    .new-product img {
+        /* height: 15rem; */
+        margin-left: 40px;
+    }
+    .navbar-nav{
+        gap: 1rem !important;
+    }
+    .up-h1{
+        font-size: 5rem;
+    }
+    .img img{
+        width: 100%;
+    }
+    .upper-para1 {
+        /* height: 28.1rem !important; */
+        width: 100%;
+    }
+    .upper-para{
+        width:100%;
+    }
+    .footer{
+        padding: 0;
+    }
+    .footer-heading{
+        margin-top: 2rem;
+        margin-bottom: 10px;
+    }
+    .footer-logo{
+        margin-top: 2rem;
+        margin-bottom: 1rem;
+    }
+    .offer23{
+        margin: auto;
+    }
+    .social-box {
+        /* background-color: #ffffff; */
+        margin-right: 2.5rem;
+        padding: 1rem 15px;
+    }
+    .contact-info-text{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+    .item1{
+        height:30rem;
+    
+    }
+    .item2{
+        height:30rem;
+    }
+    .item3{
+        height:30rem;
+    }
+    
+}
+ 
+
+ @media (max-width: 768px) {
+      [data-aos] {
+        opacity: 1 !important;
+        transform: none !important;
+      }
+    }
